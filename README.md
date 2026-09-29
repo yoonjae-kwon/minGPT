@@ -1,4 +1,4 @@
-# minGPT — # minGPT — 문자 단위 Transformer 언어모델 from scratch 구현
+# minGPT — 문자 단위 Transformer 언어모델 from scratch 구현
 
 Transformer 기반 문자 단위 언어모델의 구조를 이해하기 위해 정리한 학습 노트입니다. 코드는 Karpathy의 nanoGPT 강의와 LLM의 도움을 받아 작성했으며, 각 구성요소의 역할과 왜 필요한지를 한국어로 정리하는 데 중점을 두었습니다.
 
